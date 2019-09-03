@@ -3,4 +3,5 @@
 main()
 {
     printf("Welcome EGCO313");
+    printf("Chanapat Sae-tang")
 }
